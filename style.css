@@ -41,5 +41,16 @@
 }
 .card{
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 25px 5px lightgray ;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
 }
